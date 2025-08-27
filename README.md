@@ -1,0 +1,1 @@
+Desafio proposto na matéria de Funções de Criptografia HASH, onde o professor nos instruiu e nos mostrou, passo a passo como criar uma função que permite subir o documento e checar se ele está integro ou se teve alguma alteração.
